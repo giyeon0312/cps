@@ -1,0 +1,5 @@
+cli에서 server폴더로 이동후 
+>>node hserver.js
+안될시
+>>npm rebuild
+해보기
